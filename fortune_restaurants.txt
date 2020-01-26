@@ -1,0 +1,16 @@
+Paneer_masala
+90
+Kadai_paneer
+90
+Mattar_Paneer
+90
+Dal_fry
+60
+Dal_Tadka
+60
+Aloo_chilly
+80
+Fish_fry
+80
+Fish_curry
+90

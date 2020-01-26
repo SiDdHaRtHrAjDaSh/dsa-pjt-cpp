@@ -1,0 +1,15 @@
+django
+798657899
+dj135@gmail.com
+1/1/1990
+Indian
+Chattisgarh
+Raipur
+RP_street
+203055
+django135
+******
+django135ofile.txt
+django135ohis.txt
+django135
+0

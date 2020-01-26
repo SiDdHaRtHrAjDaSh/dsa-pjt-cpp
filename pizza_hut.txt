@@ -1,0 +1,14 @@
+Veg_exotica
+545
+Veggie_italiano
+545
+Veggie_supreme
+545
+NV_exotica
+625
+NV-italiano
+625
+NV_supreme
+625
+Triple_NV_feast
+655

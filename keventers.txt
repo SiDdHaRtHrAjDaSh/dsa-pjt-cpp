@@ -1,0 +1,16 @@
+strawbery_shake
+109
+vanilla_shake
+109
+cold_coffee
+129
+rasmalai
+129
+orange_soda
+109
+blue_curacao
+109
+chocolate_oreo
+169
+almond_rose
+199

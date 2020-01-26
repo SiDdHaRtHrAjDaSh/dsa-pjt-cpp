@@ -1,0 +1,16 @@
+Veg_soups
+79
+Veg_sp._soups
+89
+NV_soups
+99
+NV_spl_soups
+109
+Veg_salads
+79
+NV_salads
+129
+Veg_starters
+129
+Sp_veg_starters
+149

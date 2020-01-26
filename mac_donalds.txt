@@ -1,0 +1,16 @@
+Bacon_club_beef
+129
+Bacon_club_chicken
+129
+Big_mac
+119
+Big_Tasty
+109
+Crispy_McBacon
+109
+Quarterpound_cheese
+99
+McChicken
+99
+Chicken_Mayo
+89

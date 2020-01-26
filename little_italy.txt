@@ -1,0 +1,16 @@
+Garlic_bread
+165
+Funghi_trifolati
+370
+Caprese
+390
+Asparagi_freschi
+490
+Spinaci_salsa
+400
+Pale_di_potato
+350
+Arancini_noci
+435
+Ravioli_crocante
+435

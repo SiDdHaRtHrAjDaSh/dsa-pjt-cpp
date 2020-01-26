@@ -1,0 +1,10 @@
+paneer_lasagna
+300
+veg_pulau
+200
+mix_veg_curry
+180
+golden_corn
+260
+crispy_chille_prawn
+300

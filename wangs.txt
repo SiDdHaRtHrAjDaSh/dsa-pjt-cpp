@@ -1,0 +1,14 @@
+Hakka_noodles
+225
+Chilli_garlic
+215
+Kway_teow
+225
+Mee_hoon
+235
+HongKong_noodles
+305
+Pepper_sauce
+265
+Hakka_chicken
+335
